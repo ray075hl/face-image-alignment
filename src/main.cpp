@@ -30,7 +30,7 @@ int main(int argc, char *argv[])
     raslpara.lambdac            = 1.0;
 
     //std::cout<<raslpara.canoicalsize.height<<std::endl;
-    char img_path[] = "./tony_blair_data/image/Tony_Blair_";
+    char img_path[] = "./tony_blair_data/image/Tony_Blair_d";
     char point_path[] = "./tony_blair_data/yml/";
 
 
