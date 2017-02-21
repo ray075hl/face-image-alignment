@@ -1,0 +1,7 @@
+%YAML:1.0
+    points: !!opencv-matrix
+        rows: 2
+        cols: 2
+        dt: d
+        data: [ 96.025000, 160.650000, 110.000000, 
+            110.000000]
